@@ -79,33 +79,3 @@ holder1=account()
 holder1.mobileno()
 holder1.accountno()
         
-
-# class account:
-#     name = input('Enter Your name :')
-#     mobileno = int(input('Enter Your mobile number :'))
-    
-#     accbalance=10000
-
-#     def lenofmobileno(self):
-#         if len(str(self.mobileno)) == 10:
-#             print("Your number is correct")
-#         else:
-#             print('Enter a valid number')
-#             exit
-
-#     def generateaccno(self):
-#         if len (str(self.mobileno)) == 10:
-#             Accountno = randint(11111,99999)
-#             print(f'Your Account number is {Accountno}')
-
-#     def writeinfileaccno(self):
-#         with open('accountnumber.txt','a') as f:
-#             f.write
-        
-
-
-
-
-
-# user=account()
-# user.lenofmobileno()
